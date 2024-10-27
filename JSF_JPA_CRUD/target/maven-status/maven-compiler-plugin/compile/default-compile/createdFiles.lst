@@ -1,0 +1,4 @@
+com\example\dao\ClienteDao.class
+com\example\model\Cliente.class
+com\example\model\JPAUtil.class
+com\example\controller\ClienteBean.class
